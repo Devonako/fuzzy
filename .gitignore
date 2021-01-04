@@ -1,0 +1,17 @@
+*.ipch
+*.suo
+*Browse.VC
+*.exe
+*.searched
+*.masked
+*.ilk
+*.pdb
+*.tlog
+*.recipe
+*.obj
+*.idb
+*Browse.*
+ProjectSettings.json
+slnx.sqlite
+fuzzy.log
+*.user
